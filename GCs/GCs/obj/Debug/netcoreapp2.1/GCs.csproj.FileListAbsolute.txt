@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GCs\GCs\bin\Debug\netcoreapp2.1\GCs.deps.json
+C:\Users\PC\source\repos\GCs\GCs\bin\Debug\netcoreapp2.1\GCs.runtimeconfig.json
+C:\Users\PC\source\repos\GCs\GCs\bin\Debug\netcoreapp2.1\GCs.runtimeconfig.dev.json
+C:\Users\PC\source\repos\GCs\GCs\bin\Debug\netcoreapp2.1\GCs.dll
+C:\Users\PC\source\repos\GCs\GCs\bin\Debug\netcoreapp2.1\GCs.pdb
+C:\Users\PC\source\repos\GCs\GCs\obj\Debug\netcoreapp2.1\GCs.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\GCs\GCs\obj\Debug\netcoreapp2.1\GCs.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GCs\GCs\obj\Debug\netcoreapp2.1\GCs.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GCs\GCs\obj\Debug\netcoreapp2.1\GCs.AssemblyInfo.cs
+C:\Users\PC\source\repos\GCs\GCs\obj\Debug\netcoreapp2.1\GCs.dll
+C:\Users\PC\source\repos\GCs\GCs\obj\Debug\netcoreapp2.1\GCs.pdb
